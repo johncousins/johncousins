@@ -1,5 +1,7 @@
 Hi!  I'm the founder of Tetraktys Global. 
 
+![Tetraktys logo](
+
 Tetraktys Global seeks to continuously produce high-quality trading signals (alphas) through our proprietary research platform Alpha-Bets. We develop and deploy systematic investment strategies focused on market inefficiencies across a variety of asset classes and global markets.
 
 I'm always looking for collaborators interested in AI and ML for trading. 
