@@ -1,10 +1,10 @@
-Hi!  I'm the founder of Tetraktys Global. 
+# Hi!  I'm the founder of Tetraktys Global. 
 
 ![Tetraktys logo](TetraktysGlobal.png)
 
-Tetraktys Global seeks to continuously produce high-quality trading signals (alphas) through our proprietary research platform Alpha-Bets. We develop and deploy systematic investment strategies focused on market inefficiencies across a variety of asset classes and global markets.
+## Tetraktys Global seeks to continuously produce high-quality trading signals (alphas) through our proprietary research platform Alpha-Bets. We develop and deploy systematic investment strategies focused on market inefficiencies across a variety of asset classes and global markets.
 
-I'm always looking for collaborators interested in AI and ML for trading. 
+## I'm always looking for collaborators interested in AI and ML for trading. 
 
 <!--
 **johncousins/johncousins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
